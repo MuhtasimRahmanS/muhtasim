@@ -1,3 +1,4 @@
+"use client";
 import React from "react";
 import { TiHtml5 } from "react-icons/ti";
 import { IoLogoCss3 } from "react-icons/io";

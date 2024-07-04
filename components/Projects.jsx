@@ -1,3 +1,4 @@
+"use client";
 import React from "react";
 import castle from "../public/castle.png";
 import orange from "../public/orange.png";
